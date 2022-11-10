@@ -22,3 +22,4 @@ class Net::LDAP
     include Enumerable
   end
 end
+module LdapSync::CoreExt; module LdapEntry; end; end

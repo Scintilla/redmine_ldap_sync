@@ -61,3 +61,4 @@ if ('0.12.0'..'0.13.0') === Gem.loaded_specs['net-ldap'].version.to_s
     end
   end
 end
+module LdapSync::CoreExt; module Ber; end; end

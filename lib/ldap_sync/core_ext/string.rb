@@ -28,3 +28,4 @@ module Net::BER::Extensions::String
     end
   end
 end
+module LdapSync::CoreExt; module String; end; end

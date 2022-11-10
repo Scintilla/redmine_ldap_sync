@@ -24,3 +24,4 @@ class ActiveSupport::Cache::FileStore
     end
   end
 end
+module LdapSync::CoreExt; module FileStore; end; end

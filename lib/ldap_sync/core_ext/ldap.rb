@@ -22,3 +22,4 @@ class Net::LDAP
     Error = LdapError
   end
 end
+module LdapSync::CoreExt; module Ldap; end; end

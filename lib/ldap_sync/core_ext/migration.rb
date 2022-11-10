@@ -24,3 +24,4 @@ class ActiveRecord::Migration
         end
     end
 end
+module LdapSync::CoreExt; module Migration; end; end
